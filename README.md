@@ -23,7 +23,7 @@
 ## Connect with me
 
 * LinkedIn
-* [Email](<https://google.com/>)
+* [Email](<mailto:alloyd0330@gmail.com>)
 
 <hr>
 
