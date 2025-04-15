@@ -1,4 +1,4 @@
-# NCU FIRST TRY
+## Education
 
 * 🐫I'm a ncu student for learning programming.
   * mis student
@@ -20,3 +20,11 @@
 ⣿⣿⣿⣿⡿⠟⠋⢁⣷⣠⠄⠄⠄⠄⣀⣠⣾⡟⠄⠄⠄⠄⠉⠙⠻
 ```
 
+## Connect with me
+
+* LinkedIn
+* [Email](<https://google.com/>)
+
+<hr>
+
+Feel free to connect with me.
