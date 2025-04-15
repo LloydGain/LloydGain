@@ -6,19 +6,7 @@
 - [ ] hello
 - [x] I'm Lloyd 
 ## hello
-` printf('hello');`
 
-
-    hello that's a divide space for using
-    and it can do anything here 
-
-```cpp
-int a;
-cin >> a;
-if (a==1){
-  printf("yes");
-}
-```
 ```
 ⣿⣿⣿⣿⣿⠟⠋⠄⠄⠄⠄⠄⠄⠄⠄⢁⠈⢻⢿⣿⣿⣿⣿⣿⣿
 ⣿⣿⣿⣿⣿⠃⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠈⡀⠭⢿⣿⣿⣿⣿
